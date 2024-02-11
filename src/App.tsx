@@ -8,24 +8,7 @@ import {
 	AlertDialogHeader,
 } from "@/components/ui/alert-dialog";
 import { useState } from "react";
-
-interface SongData {
-	id: number;
-	name: string;
-	movie: string;
-	path: string;
-	disabled: boolean;
-}
-
-const songData: SongData[] = [
-	{
-		id: 1,
-		name: "Ore Piya",
-		movie: "Aja Nachle",
-		path: "/1.mp3",
-		disabled: false,
-	},
-];
+import { songData } from "./songData";
 
 function App() {
 	const [data, setData] = useState(songData);
@@ -39,12 +22,9 @@ function App() {
 			}
 			return i;
 		});
+		setAnswer(false);
 		setData(newData);
 	};
-
-	// const handleAnswer = () => {
-	//   setAnswer(!showAnswer);
-	// }
 
 	return (
 		<div className="grid grid-rows-10 grid-cols-10 gap-4 m-4 text-center bold font-semibold text-slate-800 text-lg">
@@ -63,7 +43,7 @@ function App() {
 							</AlertDialogHeader>
 						)}
 						<div className="flex justify-center items-center gap-3">
-							<audio src="/1.mp3" controls></audio>
+							<audio src={`/${item.id}.mp3`} controls></audio>
 							<AlertDialogCancel
 								className="rounded-md bg-sky-500 hover:bg-sky-600 px-4 h-10 mt-4"
 								onClick={() => handleClick(item.id)}
