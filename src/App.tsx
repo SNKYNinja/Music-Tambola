@@ -48,8 +48,8 @@ function App() {
     return (
         <>
             <h1 className="font-protest text-6xl mt-3 mb-7 text-center">
-                <span className="text-indigo-600">&#9834;</span> Uckersterra 2.0{" "}
-                <span className="text-indigo-500">~</span> Round 2{" "}
+                <span className="text-indigo-600">&#9834;</span> Musical{" "}
+                <span className="text-indigo-500">~</span> Tambola{" "}
                 <span className="text-indigo-600">&#9834;</span>
             </h1>
             <div className="grid grid-rows-10 grid-cols-10 gap-3 m-4 text-center bold font-semibold text-slate-800 text-lg">
