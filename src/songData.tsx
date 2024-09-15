@@ -180,7 +180,7 @@ export const songData: SongData[] = [
     },
     {
         id: "35",
-        name: "JEHDA NSAHA",
+        name: "JEHDA NASHA",
         movie: "AN ACTION HERO",
     },
     {
