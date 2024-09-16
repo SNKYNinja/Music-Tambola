@@ -40,8 +40,8 @@ export const songData: SongData[] = [
     },
     {
         id: "7",
-        name: "RANGISARI",
-        movie: "JUG JUG JEEYO",
+        name: "SHAYAD",
+        movie: "LOVE AAJ KAL 2",
     },
     {
         id: "8",
@@ -55,8 +55,8 @@ export const songData: SongData[] = [
     },
     {
         id: "10",
-        name: "TAREFAN",
-        movie: "VEERE DI WEDDING",
+        name: "HUMSAFAR",
+        movie: "BADRINATH KI DULHANIYA",
     },
     {
         id: "11",
@@ -140,8 +140,8 @@ export const songData: SongData[] = [
     },
     {
         id: "27",
-        name: "ATAK GAYA ",
-        movie: "BADHAI DO",
+        name: "LAUNG DA LASKARA ",
+        movie: "PATIALA HOUSE",
     },
     {
         id: "28",
@@ -185,8 +185,8 @@ export const songData: SongData[] = [
     },
     {
         id: "36",
-        name: "IKTARA",
-        movie: "WAKE UP SID",
+        name: "CHIKNI CHAMELI",
+        movie: "AGNEEPATH",
     },
     {
         id: "37",
@@ -260,8 +260,8 @@ export const songData: SongData[] = [
     },
     {
         id: "51",
-        name: "HUSN HAI SUHANA",
-        movie: "COOLIE NO.1(NEW)",
+        name: "CHAND SIFARISH",
+        movie: "FANAA",
     },
     {
         id: "52",
@@ -285,8 +285,8 @@ export const songData: SongData[] = [
     },
     {
         id: "56",
-        name: "SUBAH HONE NA DE",
-        movie: "DESI BOYS",
+        name: "MOH MOH KE DHAAGE",
+        movie: "DUM LAGA KE HAISA",
     },
     {
         id: "57",
@@ -370,8 +370,8 @@ export const songData: SongData[] = [
     },
     {
         id: "73",
-        name: "DANCE BASANTI",
-        movie: "UNGLI",
+        name: "ZAALIMA",
+        movie: "RAEES",
     },
     {
         id: "74",
