@@ -240,8 +240,8 @@ export const songData: SongData[] = [
     },
     {
         id: "47",
-        name: "CHALTI HAI KYA 9 SE 12",
-        movie: "JUDWA 2",
+        name: "NAJAA",
+        movie: "SOORYAVANSHI",
     },
     {
         id: "48",
