@@ -53,14 +53,14 @@ function App() {
                 <span className="text-indigo-600">&#9834;</span>
             </h1>
             <div className="grid grid-rows-10 grid-cols-10 gap-3 m-4 text-center bold font-semibold text-slate-800 text-lg">
-                {data.map((item) => (
+                {data.map((item, index) => (
                     <AlertDialog>
                         <AlertDialogTrigger asChild>
                             <button
                                 className="bg-blue-500 border-blue-600 hover:bg-blue-500 hover:text-white text-white cursor-pointer h-16 transition-all px-6 py-2 rounded-lg border-b-[6px] outline-none hover:brightness-110 hover:-translate-y-[1px] hover:border-b-[6px] active:border-b-[2px] active:brightness-90 active:translate-y-[2px] disabled:bg-red-500 disabled:border-red-600 disabled:cursor-not-allowed"
                                 disabled={item.disabled}
                             >
-                                {item.id}
+                                {index + 1}
                             </button>
                         </AlertDialogTrigger>
                         <AlertDialogContent className="w-[40%] max-w-screen flex justify-center items-center flex-col h-auto border-b-4 border-slate-400">

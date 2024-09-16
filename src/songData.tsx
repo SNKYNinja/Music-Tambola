@@ -21,12 +21,12 @@ export const songData: SongData[] = [
     {
         "id": "3",
         "name": "SAJNI",
-        "movie": "LAPATA LADY"
+        "movie": "LAPATA LADIES"
     },
     {
         "id": "4",
         "name": "AKHIYAN GULAAB",
-        "movie": "TERI BAATON MAI ESA ULJHA JIYA"
+        "movie": "TERI BAATON MEIN AISA ULJHA JIYA"
     },
     {
         "id": "5",
@@ -40,7 +40,7 @@ export const songData: SongData[] = [
     },
     {
         "id": "7",
-        "name": "RANGI SARI",
+        "name": "RANGISARI",
         "movie": "JUG JUG JEEYO"
     },
     {
@@ -55,7 +55,7 @@ export const songData: SongData[] = [
     },
     {
         "id": "10",
-        "name": "TAREEAN",
+        "name": "TAREFAN",
         "movie": "VEERE DI WEDDING"
     },
     {
@@ -81,7 +81,7 @@ export const songData: SongData[] = [
     {
         "id": "15",
         "name": "PYAAR HOTA KAI BAAR HAI",
-        "movie": "KYUKI TUMHE PATA HAI"
+        "movie": "TU JHOOTHI MAIN MAKAAR"
     },
     {
         "id": "16",
@@ -150,7 +150,7 @@ export const songData: SongData[] = [
     },
     {
         "id": "29",
-        "name": "LOOT FUTT GAYA",
+        "name": "LUTT PUTT GAYA",
         "movie": "DUNKI"
     },
     {
@@ -180,7 +180,7 @@ export const songData: SongData[] = [
     },
     {
         "id": "35",
-        "name": "ISHQ KI BAAJIYAAN",
+        "name": "ISHQ DI BAAJIYAAN",
         "movie": "SOORMA"
     },
     {
@@ -191,7 +191,7 @@ export const songData: SongData[] = [
     {
         "id": "37",
         "name": "PSYCHO SAIYAAN",
-        "movie": "SAHOO"
+        "movie": "SAAHO"
     },
     {
         "id": "38",
@@ -215,7 +215,7 @@ export const songData: SongData[] = [
     },
     {
         "id": "42",
-        "name": "NAACHENGE SAARI RAAT",
+        "name": "NACHENGE SAARI RAAT",
         "movie": "JUNOONIYAT"
     },
     {
@@ -260,8 +260,8 @@ export const songData: SongData[] = [
     },
     {
         "id": "51",
-        "name": "HUSN HAI SUHANA",
-        "movie": "COOLIE NO.1(NEW)"
+        "name": "HUSN HAI SUHANA (NEW)",
+        "movie": "COOLIE NO.1"
     },
     {
         "id": "52",
@@ -271,7 +271,7 @@ export const songData: SongData[] = [
     {
         "id": "53",
         "name": "KHUDA JAANE",
-        "movie": "BACHNA E HASEENO"
+        "movie": "BACHNA AE HASINO"
     },
     {
         "id": "54",
