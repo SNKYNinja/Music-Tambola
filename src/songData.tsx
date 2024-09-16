@@ -41,7 +41,7 @@ export const songData: SongData[] = [
     {
         id: "7",
         name: "SHAYAD",
-        movie: "LOVE AAJ KAL 2",
+        movie: "LOVE AAJ KAL",
     },
     {
         id: "8",
