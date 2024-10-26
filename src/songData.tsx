@@ -9,7 +9,7 @@ interface SongData {
 
 export const songData: SongData[] = [
     {
-        id: "1",
+        id: "1", 
         name: "TUJHE AKSA BEACH GHUMA DOON",
         movie: "GOD TUSSI GREAT HO",
     },
