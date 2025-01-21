@@ -1,6 +1,6 @@
 # Musical Tambola 🎵🎲
 
-![Musical Tambola](https://via.placeholder.com/1200x300?text=Musical+Tambola)
+![Musical Tambola](src/assets/showcase.png)
 
 Musical Tambola is an engaging and interactive single-page game that combines the excitement of Tambola (Bingo) with the joy of music. Test your knowledge of Bollywood songs and movies in this fun-filled guessing game!
 
@@ -64,6 +64,4 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 ---
 
-Made with ❤️ by [Your Name](https://your-website.com)
-
-Enjoy playing Musical Tambola! 🎉🎶
+Made with ❤️ by [Aditya](https://bento.me/aditya-byte)
