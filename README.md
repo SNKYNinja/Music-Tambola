@@ -62,6 +62,5 @@ If you'd like to contribute, please follow these steps:
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
----
-
-Made with ❤️ by [Aditya](https://bento.me/aditya-byte)
+<br/>
+<p align="center">Made with ❤️ by <a href="https://bento.me/aditya-byte">Aditya</a></p>
