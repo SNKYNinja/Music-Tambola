@@ -21,6 +21,7 @@ module.exports = {
             fontFamily: {
                 protest: ["Protest Riot", "sans-serif"],
                 fredoka: ["Fredoka", "sans-serif"],
+                raleway: ["Raleway", "serif"]
             },
             colors: {
                 border: "hsl(var(--border))",
